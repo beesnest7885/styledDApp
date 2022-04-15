@@ -1,0 +1,11 @@
+{
+  "build/main.css": "http://localhost:8080/build/main.css",
+  "build/main.js": "http://localhost:8080/build/main.js",
+  "build/images/bg.png": "http://localhost:8080/build/images/bg.png",
+  "build/images/preview.gif": "http://localhost:8080/build/images/preview.gif",
+  "build/images/fav.png": "http://localhost:8080/build/images/fav.png",
+  "build/images/preview.png": "http://localhost:8080/build/images/preview.png",
+  "build/images/logo.png": "http://localhost:8080/build/images/logo.png",
+  "build/images/sats-logo.png": "http://localhost:8080/build/images/sats-logo.png",
+  "build/images/satslogo.png": "http://localhost:8080/build/images/satslogo.png"
+}
